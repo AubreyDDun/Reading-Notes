@@ -13,5 +13,6 @@ function whatever(params) {
         // this line added in other branch and merged to master by someone else
         // line13
         // line14
+        // code code code ...
     }
 }
