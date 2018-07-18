@@ -9,8 +9,7 @@ function whatever(params) {
     } else{
         // do something else
         // line11
-        // line12
-        // this line added in other branch and merged to master by someone else
+        // line12: in hofix_1, this line changed
         // line13
         // line14
         // code code code ...
