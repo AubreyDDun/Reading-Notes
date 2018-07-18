@@ -9,7 +9,7 @@ function whatever(params) {
     } else{
         // do something else
         // line11
-        // line12
+        // line12: in hofix_1, this line changed
         // line13
         // line14
     }
