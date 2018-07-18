@@ -10,6 +10,7 @@ function whatever(params) {
         // do something else
         // line11
         // line12
+        // this line added in other branch and merged to master by someone else
         // line13
         // line14
     }
