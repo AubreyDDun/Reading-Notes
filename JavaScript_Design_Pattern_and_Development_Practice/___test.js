@@ -12,5 +12,6 @@ function whatever(params) {
         // line12: in hofix_1, this line changed
         // line13
         // line14
+        // code code code ...
     }
 }
